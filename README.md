@@ -33,6 +33,12 @@ Created after I forgot the PW to a secret key of mine. Helped a lot, too.
 
 If you want to use it for something else, be my guest. 
 
+## This code is not very good.
+
+Yes. it was created as a quick hack between two 
+lectures during the 35C3. Improvements are welcome.
+
+
 # To Do
 
 - parametrize the script
