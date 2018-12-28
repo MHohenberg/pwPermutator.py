@@ -33,12 +33,17 @@ Created after I forgot the PW to a secret key of mine. Helped a lot, too.
 
 If you want to use it for something else, be my guest. 
 
+# To Do
+
+- parametrize the script
+- disable verbose move
+
 # License 
 
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                    Version 2, December 2004
 
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+Copyright (C) 2018 Martin Hohenberg <me@martinhohenberg.de>
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
